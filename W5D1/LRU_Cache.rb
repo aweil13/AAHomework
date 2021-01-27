@@ -29,6 +29,7 @@ class LRUCache
     end
 
     private
+    attr_accessor :size, :cache
     # helper methods go here!
 
   end
