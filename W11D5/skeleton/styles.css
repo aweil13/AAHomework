@@ -1,0 +1,36 @@
+
+body{
+    background: lightblue;
+}
+
+.header{
+    text-align: center;
+}
+
+.header h1{
+    margin: 0 auto;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    font-weight: 100;
+    font-style: italic;
+    background: whitesmoke;
+    width: 600px;
+    border-radius: 5px;
+    float: left;
+}
+
+.header button{
+    background: grey;
+    
+}
+.splash-container {
+    margin: 0 auto;
+    width: 500px;
+    height: 500px;
+}
+
+.splash-container img {
+    padding: 30px;
+    width: 400px;
+    height: 200px;
+}
